@@ -170,7 +170,7 @@ ClusterRole                    vpnkit-controller                                
    kubectl rollout restart DaemonSet node-problem-detector -n kube-system
    ```
 
-## KubeEye Operator
+## KVigor Operator
 ### What is KVigor Operator
 
 KVigor Operator is an inspection platform for Kubernetes. It manages KVigor to regularly inspect clusters and generate inspection results.
